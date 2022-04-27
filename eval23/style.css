@@ -1,0 +1,18 @@
+body {
+    background: radial-gradient(circle, rgba(0,69,255,1) 0%, rgba(122,25,143,1) 100%);
+}
+
+#quote-div {
+    margin-top: 15%;
+    width: 33%;
+    background: #fff9d5;
+    border-radius: 10%;
+}
+
+.container {
+    height: 600px;
+}
+
+.btn {
+    background: linear-gradient(90deg, rgba(0,69,255,1) 0%, rgba(122,25,143,1) 100%) !important;
+}
